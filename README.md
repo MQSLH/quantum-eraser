@@ -1,2 +1,3 @@
-# quantum-eraser
-Simulates a quantum eraser based on a Mach-Zehnder interferometer
+# Quantum eraser
+
+Quantum eraser simulation 
